@@ -3,7 +3,7 @@ layout: post
 title:  "my first post! wish...sucess!!"
 published: true
 date:   2019-03-17 
-categories: [daily]
+categories: jekyll update
 tags:[daily, first]
 ---
 
