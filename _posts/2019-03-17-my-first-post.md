@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "my first post! wish...sucess!!"
+published: true
 date:   2019-03-17 
-categories: jekyll update
+categories: [daily]
+tags:[daily, first]
 ---
 
 # first blogging
